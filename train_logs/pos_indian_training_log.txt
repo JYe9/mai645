@@ -1,0 +1,311 @@
+load 01.bvh.npy
+frame number: 3603
+load 02.bvh.npy
+frame number: 3342
+load 03.bvh.npy
+frame number: 3733
+load 04.bvh.npy
+frame number: 3144
+load 05.bvh.npy
+frame number: 5273
+load 06.bvh.npy
+frame number: 2515
+load 07.bvh.npy
+frame number: 2314
+load 08.bvh.npy
+frame number: 2750
+load 09.bvh.npy
+frame number: 3975
+load 10.bvh.npy
+frame number: 3458
+load 11.bvh.npy
+frame number: 4810
+load 12.bvh.npy
+frame number: 4501
+load 13.bvh.npy
+frame number: 1996
+load 14.bvh.npy
+frame number: 2996
+load 15.bvh.npy
+frame number: 2212
+###########iter 0000000######################
+tensor(0.1318, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.13184933
+###########iter 0000001######################
+tensor(0.1232, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.12316644
+###########iter 0000002######################
+tensor(0.1236, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.12360037
+###########iter 0000003######################
+tensor(0.1225, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.12245241
+###########iter 0000004######################
+tensor(0.1196, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.11962456
+###########iter 0000005######################
+tensor(0.1137, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.11372057
+###########iter 0000006######################
+tensor(0.1110, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.11096792
+###########iter 0000007######################
+tensor(0.1116, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.111632526
+###########iter 0000008######################
+tensor(0.1034, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.10338583
+###########iter 0000009######################
+tensor(0.0961, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.09614513
+###########iter 0000010######################
+tensor(0.0833, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.08330546
+###########iter 0000011######################
+tensor(0.0689, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.06885511
+###########iter 0000012######################
+tensor(0.0970, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.097039565
+###########iter 0000013######################
+tensor(0.0654, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.06538054
+###########iter 0000014######################
+tensor(0.0562, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.056174487
+###########iter 0000015######################
+tensor(0.0614, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.06135488
+###########iter 0000016######################
+tensor(0.0685, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.06849399
+###########iter 0000017######################
+tensor(0.0685, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.068510085
+###########iter 0000018######################
+tensor(0.0695, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.069480255
+###########iter 0000019######################
+tensor(0.0659, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.06594907
+###########iter 0000020######################
+tensor(0.0609, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.0608861
+###########iter 0000021######################
+tensor(0.0558, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.05584907
+###########iter 0000022######################
+tensor(0.0517, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.051739845
+###########iter 0000023######################
+tensor(0.0550, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.055021957
+###########iter 0000024######################
+tensor(0.0519, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.051923443
+###########iter 0000025######################
+tensor(0.0553, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.055309873
+###########iter 0000026######################
+tensor(0.0543, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.054304525
+###########iter 0000027######################
+tensor(0.0577, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.057657737
+###########iter 0000028######################
+tensor(0.0490, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.048992503
+###########iter 0000029######################
+tensor(0.0519, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.05185665
+###########iter 0000030######################
+tensor(0.0510, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.050999817
+###########iter 0000031######################
+tensor(0.0526, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.05260221
+###########iter 0000032######################
+tensor(0.0513, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.051264025
+###########iter 0000033######################
+tensor(0.0530, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.05304185
+###########iter 0000034######################
+tensor(0.0539, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.053947803
+###########iter 0000035######################
+tensor(0.0506, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.050618168
+###########iter 0000036######################
+tensor(0.0513, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.05131427
+###########iter 0000037######################
+tensor(0.0508, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.05081124
+###########iter 0000038######################
+tensor(0.0514, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.051415715
+###########iter 0000039######################
+tensor(0.0518, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.051805135
+###########iter 0000040######################
+tensor(0.0483, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.048304256
+###########iter 0000041######################
+tensor(0.0496, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04964333
+###########iter 0000042######################
+tensor(0.0490, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04901555
+###########iter 0000043######################
+tensor(0.0506, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.050557278
+###########iter 0000044######################
+tensor(0.0508, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.050775852
+###########iter 0000045######################
+tensor(0.0479, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.047887653
+###########iter 0000046######################
+tensor(0.0523, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.052257538
+###########iter 0000047######################
+tensor(0.0494, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04938976
+###########iter 0000048######################
+tensor(0.0518, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.05176607
+###########iter 0000049######################
+tensor(0.0480, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.048025273
+###########iter 0000050######################
+tensor(0.0495, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.049491007
+###########iter 0000051######################
+tensor(0.0471, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04713137
+###########iter 0000052######################
+tensor(0.0459, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04585382
+###########iter 0000053######################
+tensor(0.0467, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04666765
+###########iter 0000054######################
+tensor(0.0454, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04539178
+###########iter 0000055######################
+tensor(0.0463, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04629241
+###########iter 0000056######################
+tensor(0.0462, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.04615862
+###########iter 0000057######################
+tensor(0.0454, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.045413166
+###########iter 0000058######################
+tensor(0.0396, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03958199
+###########iter 0000059######################
+tensor(0.0411, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.041070443
+###########iter 0000060######################
+tensor(0.0430, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.042954206
+###########iter 0000061######################
+tensor(0.0392, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03921509
+###########iter 0000062######################
+tensor(0.0370, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.037003446
+###########iter 0000063######################
+tensor(0.0398, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03981126
+###########iter 0000064######################
+tensor(0.0392, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.039180677
+###########iter 0000065######################
+tensor(0.0359, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.035860956
+###########iter 0000066######################
+tensor(0.0359, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03588206
+###########iter 0000067######################
+tensor(0.0350, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.034960087
+###########iter 0000068######################
+tensor(0.0343, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03429365
+###########iter 0000069######################
+tensor(0.0343, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03432641
+###########iter 0000070######################
+tensor(0.0334, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03342681
+###########iter 0000071######################
+tensor(0.0346, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03463159
+###########iter 0000072######################
+tensor(0.0346, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.034557134
+###########iter 0000073######################
+tensor(0.0374, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.037410546
+###########iter 0000074######################
+tensor(0.0337, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.033661645
+###########iter 0000075######################
+tensor(0.0308, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.030765716
+###########iter 0000076######################
+tensor(0.0309, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.030862821
+###########iter 0000077######################
+tensor(0.0340, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.034013387
+###########iter 0000078######################
+tensor(0.0321, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03211526
+###########iter 0000079######################
+tensor(0.0312, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.031236928
+###########iter 0000080######################
+tensor(0.0326, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.032606654
+###########iter 0000081######################
+tensor(0.0325, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.032477748
+###########iter 0000082######################
+tensor(0.0311, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.031111736
+###########iter 0000083######################
+tensor(0.0290, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.029007694
+###########iter 0000084######################
+tensor(0.0299, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.029934807
+###########iter 0000085######################
+tensor(0.0315, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.03149843
+###########iter 0000086######################
+tensor(0.0336, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.033596147
+###########iter 0000087######################
+tensor(0.0297, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.02974378
+###########iter 0000088######################
+tensor(0.0301, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.030068194
+###########iter 0000089######################
+tensor(0.0324, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 0.032353017
+Traceback (most recent call last):
+  File "C:\00_Assignment\MAI645_ML_for_CV\project645\code\pytorch_train_pos_aclstm.py", line 295, in <module>
+    train(dances, dance_frame_rate, batch, 100, read_weight_path, write_weight_folder,
+  File "C:\00_Assignment\MAI645_ML_for_CV\project645\code\pytorch_train_pos_aclstm.py", line 246, in train
+    sample_seq_augmented=read_bvh.augment_train_data(sample_seq, T, R)
+  File "C:\00_Assignment\MAI645_ML_for_CV\project645\code\read_bvh.py", line 144, in augment_train_data
+    result=list(map(lambda frame: augment_train_frame_data(frame, T, axisR), train_data))
+  File "C:\00_Assignment\MAI645_ML_for_CV\project645\code\read_bvh.py", line 144, in <lambda>
+    result=list(map(lambda frame: augment_train_frame_data(frame, T, axisR), train_data))
+  File "C:\00_Assignment\MAI645_ML_for_CV\project645\code\read_bvh.py", line -1, in augment_train_frame_data
+KeyboardInterrupt

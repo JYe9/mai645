@@ -1,0 +1,3037 @@
+load 01.bvh.npy
+frame number: 6117
+load 02.bvh.npy
+frame number: 5203
+load 03.bvh.npy
+frame number: 2750
+load 04.bvh.npy
+frame number: 1317
+load 05.bvh.npy
+frame number: 2461
+load 06.bvh.npy
+frame number: 3262
+load 07.bvh.npy
+frame number: 1473
+load 08.bvh.npy
+frame number: 2151
+load 09.bvh.npy
+frame number: 2002
+load 10.bvh.npy
+frame number: 2447
+###########iter 0000000######################
+tensor(2.2391, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 2.2391486
+###########iter 0000001######################
+tensor(2.1278, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 2.1277754
+###########iter 0000002######################
+tensor(1.9843, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.9843261
+###########iter 0000003######################
+tensor(1.8785, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.8785201
+###########iter 0000004######################
+tensor(1.7940, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.7939944
+###########iter 0000005######################
+tensor(1.6936, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.6935959
+###########iter 0000006######################
+tensor(1.6863, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.6863383
+###########iter 0000007######################
+tensor(1.6643, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.6642907
+###########iter 0000008######################
+tensor(1.6550, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.6549903
+###########iter 0000009######################
+tensor(1.6421, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.6421027
+###########iter 0000010######################
+tensor(1.5594, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.55936
+###########iter 0000011######################
+tensor(1.4935, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.4934524
+###########iter 0000012######################
+tensor(1.5061, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.5061412
+###########iter 0000013######################
+tensor(1.4988, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.4987987
+###########iter 0000014######################
+tensor(1.4448, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.4447615
+###########iter 0000015######################
+tensor(1.4140, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.4139935
+###########iter 0000016######################
+tensor(1.4443, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.4442945
+###########iter 0000017######################
+tensor(1.3488, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.3488221
+###########iter 0000018######################
+tensor(1.3492, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.3492477
+###########iter 0000019######################
+tensor(1.3438, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.3438419
+###########iter 0000020######################
+tensor(1.2862, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.2861884
+###########iter 0000021######################
+tensor(1.2234, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.2234279
+###########iter 0000022######################
+tensor(1.3014, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.3014483
+###########iter 0000023######################
+tensor(1.2383, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.2383153
+###########iter 0000024######################
+tensor(1.2024, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.2023739
+###########iter 0000025######################
+tensor(1.1954, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.195351
+###########iter 0000026######################
+tensor(1.1969, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.1969119
+###########iter 0000027######################
+tensor(1.1276, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.1276324
+###########iter 0000028######################
+tensor(1.1384, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.1383893
+###########iter 0000029######################
+tensor(1.1683, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.1682724
+###########iter 0000030######################
+tensor(1.0957, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0956714
+###########iter 0000031######################
+tensor(1.0914, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0913626
+###########iter 0000032######################
+tensor(1.1306, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.1306151
+###########iter 0000033######################
+tensor(1.1102, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.1102049
+###########iter 0000034######################
+tensor(1.0971, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0970732
+###########iter 0000035######################
+tensor(1.0498, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.049798
+###########iter 0000036######################
+tensor(1.0969, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0969225
+###########iter 0000037######################
+tensor(1.0949, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0948547
+###########iter 0000038######################
+tensor(1.0613, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0613164
+###########iter 0000039######################
+tensor(1.1120, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.1120051
+###########iter 0000040######################
+tensor(1.0410, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0410014
+###########iter 0000041######################
+tensor(1.0782, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0782119
+###########iter 0000042######################
+tensor(1.0496, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.049556
+###########iter 0000043######################
+tensor(1.0539, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0539488
+###########iter 0000044######################
+tensor(1.0260, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0260128
+###########iter 0000045######################
+tensor(1.0728, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.072824
+###########iter 0000046######################
+tensor(1.0387, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0386766
+###########iter 0000047######################
+tensor(1.0980, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0979867
+###########iter 0000048######################
+tensor(1.0472, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0472368
+###########iter 0000049######################
+tensor(1.0379, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0378973
+###########iter 0000050######################
+tensor(1.0301, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0300651
+###########iter 0000051######################
+tensor(1.0065, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0065056
+###########iter 0000052######################
+tensor(1.0473, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0473406
+###########iter 0000053######################
+tensor(1.0096, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0095655
+###########iter 0000054######################
+tensor(1.0387, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0387008
+###########iter 0000055######################
+tensor(1.0429, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.042931
+###########iter 0000056######################
+tensor(1.0268, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0268092
+###########iter 0000057######################
+tensor(1.0149, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0148859
+###########iter 0000058######################
+tensor(0.9642, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9642306
+###########iter 0000059######################
+tensor(0.9647, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9647398
+###########iter 0000060######################
+tensor(1.0158, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0157592
+###########iter 0000061######################
+tensor(1.0068, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0068482
+###########iter 0000062######################
+tensor(0.9922, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9921863
+###########iter 0000063######################
+tensor(0.9696, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9696179
+###########iter 0000064######################
+tensor(0.9886, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9886367
+###########iter 0000065######################
+tensor(0.9651, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.96509683
+###########iter 0000066######################
+tensor(1.0016, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 1.0016245
+###########iter 0000067######################
+tensor(0.9681, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9681447
+###########iter 0000068######################
+tensor(0.9625, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.96253127
+###########iter 0000069######################
+tensor(0.9737, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.97374165
+###########iter 0000070######################
+tensor(0.9316, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.93160266
+###########iter 0000071######################
+tensor(0.9512, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.95120364
+###########iter 0000072######################
+tensor(0.9355, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9354565
+###########iter 0000073######################
+tensor(0.9483, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.94831264
+###########iter 0000074######################
+tensor(0.9473, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9472588
+###########iter 0000075######################
+tensor(0.9377, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.93765086
+###########iter 0000076######################
+tensor(0.9275, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9274738
+###########iter 0000077######################
+tensor(0.9247, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.92469805
+###########iter 0000078######################
+tensor(0.9537, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.95369947
+###########iter 0000079######################
+tensor(0.9031, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.90311205
+###########iter 0000080######################
+tensor(0.9180, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.91801953
+###########iter 0000081######################
+tensor(0.8983, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.898312
+###########iter 0000082######################
+tensor(0.9159, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.91589034
+###########iter 0000083######################
+tensor(0.9125, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9124991
+###########iter 0000084######################
+tensor(0.9119, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9119063
+###########iter 0000085######################
+tensor(0.9018, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9018316
+###########iter 0000086######################
+tensor(0.8891, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8890794
+###########iter 0000087######################
+tensor(0.9130, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.91296804
+###########iter 0000088######################
+tensor(0.9057, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.90568495
+###########iter 0000089######################
+tensor(0.9071, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.90714633
+###########iter 0000090######################
+tensor(0.9322, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9322091
+###########iter 0000091######################
+tensor(0.9169, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.91693217
+###########iter 0000092######################
+tensor(0.9141, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9141485
+###########iter 0000093######################
+tensor(0.8992, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.89921325
+###########iter 0000094######################
+tensor(0.9017, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9017231
+###########iter 0000095######################
+tensor(0.9017, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.9017461
+###########iter 0000096######################
+tensor(0.8699, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8698975
+###########iter 0000097######################
+tensor(0.8594, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8593618
+###########iter 0000098######################
+tensor(0.8755, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.87552655
+###########iter 0000099######################
+tensor(0.8840, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.88404834
+###########iter 0000100######################
+tensor(0.8801, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.88009655
+###########iter 0000101######################
+tensor(0.8885, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8885468
+###########iter 0000102######################
+tensor(0.8559, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8559199
+###########iter 0000103######################
+tensor(0.8578, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8577538
+###########iter 0000104######################
+tensor(0.8642, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.86422676
+###########iter 0000105######################
+tensor(0.8856, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.88558203
+###########iter 0000106######################
+tensor(0.8652, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.86521316
+###########iter 0000107######################
+tensor(0.8765, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8765322
+###########iter 0000108######################
+tensor(0.8875, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8874687
+###########iter 0000109######################
+tensor(0.8612, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.86118305
+###########iter 0000110######################
+tensor(0.8752, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8751941
+###########iter 0000111######################
+tensor(0.8690, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8689866
+###########iter 0000112######################
+tensor(0.8687, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.86867315
+###########iter 0000113######################
+tensor(0.8533, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.85329896
+###########iter 0000114######################
+tensor(0.8513, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.85133296
+###########iter 0000115######################
+tensor(0.8311, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.83109736
+###########iter 0000116######################
+tensor(0.8716, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8715902
+###########iter 0000117######################
+tensor(0.8768, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8767932
+###########iter 0000118######################
+tensor(0.8728, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8728247
+###########iter 0000119######################
+tensor(0.8597, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8596894
+###########iter 0000120######################
+tensor(0.8319, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8319424
+###########iter 0000121######################
+tensor(0.8387, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.83867437
+###########iter 0000122######################
+tensor(0.8592, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.85915744
+###########iter 0000123######################
+tensor(0.8544, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8543982
+###########iter 0000124######################
+tensor(0.8496, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.84959114
+###########iter 0000125######################
+tensor(0.8533, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8532524
+###########iter 0000126######################
+tensor(0.8182, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81815326
+###########iter 0000127######################
+tensor(0.8525, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.85250664
+###########iter 0000128######################
+tensor(0.8503, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8502816
+###########iter 0000129######################
+tensor(0.8383, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.83831245
+###########iter 0000130######################
+tensor(0.8666, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8666089
+###########iter 0000131######################
+tensor(0.8318, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.83178306
+###########iter 0000132######################
+tensor(0.8417, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.84169155
+###########iter 0000133######################
+tensor(0.8597, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8596898
+###########iter 0000134######################
+tensor(0.8312, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8311688
+###########iter 0000135######################
+tensor(0.8281, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8281026
+###########iter 0000136######################
+tensor(0.8146, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81460875
+###########iter 0000137######################
+tensor(0.8370, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8370496
+###########iter 0000138######################
+tensor(0.8446, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.84460956
+###########iter 0000139######################
+tensor(0.8307, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.83071977
+###########iter 0000140######################
+tensor(0.7925, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7925407
+###########iter 0000141######################
+tensor(0.8572, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8572025
+###########iter 0000142######################
+tensor(0.8473, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.84732217
+###########iter 0000143######################
+tensor(0.8295, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8295189
+###########iter 0000144######################
+tensor(0.8453, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8453223
+###########iter 0000145######################
+tensor(0.8198, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81977713
+###########iter 0000146######################
+tensor(0.8274, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.82741386
+###########iter 0000147######################
+tensor(0.8615, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.86153424
+###########iter 0000148######################
+tensor(0.8120, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8119623
+###########iter 0000149######################
+tensor(0.8587, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8586652
+###########iter 0000150######################
+tensor(0.8199, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8199321
+###########iter 0000151######################
+tensor(0.8247, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.82474023
+###########iter 0000152######################
+tensor(0.8165, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81647056
+###########iter 0000153######################
+tensor(0.8443, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.844263
+###########iter 0000154######################
+tensor(0.8423, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8423193
+###########iter 0000155######################
+tensor(0.8209, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8209288
+###########iter 0000156######################
+tensor(0.8205, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.82046205
+###########iter 0000157######################
+tensor(0.8329, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.83293605
+###########iter 0000158######################
+tensor(0.8297, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.82965267
+###########iter 0000159######################
+tensor(0.8221, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8221471
+###########iter 0000160######################
+tensor(0.8170, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.817042
+###########iter 0000161######################
+tensor(0.8107, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81070685
+###########iter 0000162######################
+tensor(0.8470, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8469708
+###########iter 0000163######################
+tensor(0.8206, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8206234
+###########iter 0000164######################
+tensor(0.8292, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8292099
+###########iter 0000165######################
+tensor(0.8084, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8083674
+###########iter 0000166######################
+tensor(0.7971, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7970753
+###########iter 0000167######################
+tensor(0.8208, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8207634
+###########iter 0000168######################
+tensor(0.8146, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8146288
+###########iter 0000169######################
+tensor(0.8433, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8432981
+###########iter 0000170######################
+tensor(0.8213, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.821337
+###########iter 0000171######################
+tensor(0.7919, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79189444
+###########iter 0000172######################
+tensor(0.8306, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8306357
+###########iter 0000173######################
+tensor(0.8364, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8364146
+###########iter 0000174######################
+tensor(0.7966, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79664856
+###########iter 0000175######################
+tensor(0.8141, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81412786
+###########iter 0000176######################
+tensor(0.8173, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8173341
+###########iter 0000177######################
+tensor(0.8327, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8326883
+###########iter 0000178######################
+tensor(0.8096, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80959433
+###########iter 0000179######################
+tensor(0.8048, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.804781
+###########iter 0000180######################
+tensor(0.7999, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7999393
+###########iter 0000181######################
+tensor(0.8258, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8258121
+###########iter 0000182######################
+tensor(0.8060, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.806006
+###########iter 0000183######################
+tensor(0.8632, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8631968
+###########iter 0000184######################
+tensor(0.8115, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8115065
+###########iter 0000185######################
+tensor(0.8187, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81873417
+###########iter 0000186######################
+tensor(0.8251, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8251306
+###########iter 0000187######################
+tensor(0.7942, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7942006
+###########iter 0000188######################
+tensor(0.8275, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8274875
+###########iter 0000189######################
+tensor(0.8065, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8065468
+###########iter 0000190######################
+tensor(0.8163, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.816301
+###########iter 0000191######################
+tensor(0.8070, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80700356
+###########iter 0000192######################
+tensor(0.8031, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80313826
+###########iter 0000193######################
+tensor(0.8058, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.805849
+###########iter 0000194######################
+tensor(0.7903, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79027456
+###########iter 0000195######################
+tensor(0.8172, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81721866
+###########iter 0000196######################
+tensor(0.7905, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79051435
+###########iter 0000197######################
+tensor(0.7978, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7978226
+###########iter 0000198######################
+tensor(0.8410, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8409709
+###########iter 0000199######################
+tensor(0.8259, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.82587934
+###########iter 0000200######################
+tensor(0.7951, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79510444
+###########iter 0000201######################
+tensor(0.8094, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80935127
+###########iter 0000202######################
+tensor(0.7934, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7934466
+###########iter 0000203######################
+tensor(0.8083, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80827045
+###########iter 0000204######################
+tensor(0.7996, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79961205
+###########iter 0000205######################
+tensor(0.7917, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7916831
+###########iter 0000206######################
+tensor(0.8137, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8137397
+###########iter 0000207######################
+tensor(0.8059, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80593157
+###########iter 0000208######################
+tensor(0.7942, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7942185
+###########iter 0000209######################
+tensor(0.7902, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7901736
+###########iter 0000210######################
+tensor(0.7922, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79216665
+###########iter 0000211######################
+tensor(0.8053, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80534196
+###########iter 0000212######################
+tensor(0.8409, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8409148
+###########iter 0000213######################
+tensor(0.8022, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80215335
+###########iter 0000214######################
+tensor(0.8157, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.81573564
+###########iter 0000215######################
+tensor(0.7736, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77357775
+###########iter 0000216######################
+tensor(0.8164, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8164365
+###########iter 0000217######################
+tensor(0.8157, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8156729
+###########iter 0000218######################
+tensor(0.7873, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78731346
+###########iter 0000219######################
+tensor(0.8068, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.80684197
+###########iter 0000220######################
+tensor(0.7893, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78929865
+###########iter 0000221######################
+tensor(0.7966, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79658407
+###########iter 0000222######################
+tensor(0.7824, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7824403
+###########iter 0000223######################
+tensor(0.7859, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.785863
+###########iter 0000224######################
+tensor(0.7831, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78305274
+###########iter 0000225######################
+tensor(0.7939, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79387987
+###########iter 0000226######################
+tensor(0.7952, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79522413
+###########iter 0000227######################
+tensor(0.7846, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7846498
+###########iter 0000228######################
+tensor(0.8046, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8045755
+###########iter 0000229######################
+tensor(0.7771, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7770745
+###########iter 0000230######################
+tensor(0.7700, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7699865
+###########iter 0000231######################
+tensor(0.7869, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7869024
+###########iter 0000232######################
+tensor(0.7611, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7610764
+###########iter 0000233######################
+tensor(0.7918, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79175425
+###########iter 0000234######################
+tensor(0.7948, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7947794
+###########iter 0000235######################
+tensor(0.7954, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7953934
+###########iter 0000236######################
+tensor(0.7595, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7594789
+###########iter 0000237######################
+tensor(0.7872, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78715247
+###########iter 0000238######################
+tensor(0.7853, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78528315
+###########iter 0000239######################
+tensor(0.7916, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7916244
+###########iter 0000240######################
+tensor(0.7874, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78742695
+###########iter 0000241######################
+tensor(0.7943, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7942994
+###########iter 0000242######################
+tensor(0.7864, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7863586
+###########iter 0000243######################
+tensor(0.7662, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7661783
+###########iter 0000244######################
+tensor(0.7790, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7790188
+###########iter 0000245######################
+tensor(0.7976, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7976326
+###########iter 0000246######################
+tensor(0.7827, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78266233
+###########iter 0000247######################
+tensor(0.7877, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7877144
+###########iter 0000248######################
+tensor(0.7681, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76811194
+###########iter 0000249######################
+tensor(0.7886, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7886017
+###########iter 0000250######################
+tensor(0.7692, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7692115
+###########iter 0000251######################
+tensor(0.7792, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7792349
+###########iter 0000252######################
+tensor(0.7789, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7789091
+###########iter 0000253######################
+tensor(0.7998, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79983765
+###########iter 0000254######################
+tensor(0.7794, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77935845
+###########iter 0000255######################
+tensor(0.7961, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7960518
+###########iter 0000256######################
+tensor(0.7650, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76501447
+###########iter 0000257######################
+tensor(0.7978, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.79775757
+###########iter 0000258######################
+tensor(0.7855, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7855274
+###########iter 0000259######################
+tensor(0.7703, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77029794
+###########iter 0000260######################
+tensor(0.7659, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76591915
+###########iter 0000261######################
+tensor(0.7657, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7657059
+###########iter 0000262######################
+tensor(0.7946, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7945823
+###########iter 0000263######################
+tensor(0.7707, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7707403
+###########iter 0000264######################
+tensor(0.7667, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76665646
+###########iter 0000265######################
+tensor(0.7636, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76357365
+###########iter 0000266######################
+tensor(0.7860, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7860434
+###########iter 0000267######################
+tensor(0.7774, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77741206
+###########iter 0000268######################
+tensor(0.7827, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78272796
+###########iter 0000269######################
+tensor(0.7651, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7651465
+###########iter 0000270######################
+tensor(0.7586, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7585687
+###########iter 0000271######################
+tensor(0.8051, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.8050845
+###########iter 0000272######################
+tensor(0.7860, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78598636
+###########iter 0000273######################
+tensor(0.7742, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7741738
+###########iter 0000274######################
+tensor(0.7799, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7798874
+###########iter 0000275######################
+tensor(0.7696, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76956826
+###########iter 0000276######################
+tensor(0.7750, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7750458
+###########iter 0000277######################
+tensor(0.7732, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77315044
+###########iter 0000278######################
+tensor(0.7776, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7776031
+###########iter 0000279######################
+tensor(0.7874, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.787414
+###########iter 0000280######################
+tensor(0.7816, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.78163093
+###########iter 0000281######################
+tensor(0.7658, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7657847
+###########iter 0000282######################
+tensor(0.7678, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7677961
+###########iter 0000283######################
+tensor(0.7708, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.770766
+###########iter 0000284######################
+tensor(0.7770, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77698356
+###########iter 0000285######################
+tensor(0.7943, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7943458
+###########iter 0000286######################
+tensor(0.7575, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7574949
+###########iter 0000287######################
+tensor(0.7727, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77266914
+###########iter 0000288######################
+tensor(0.7618, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7617744
+###########iter 0000289######################
+tensor(0.7547, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7546949
+###########iter 0000290######################
+tensor(0.7559, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75592977
+###########iter 0000291######################
+tensor(0.7711, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7710725
+###########iter 0000292######################
+tensor(0.7453, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7453121
+###########iter 0000293######################
+tensor(0.7809, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7808714
+###########iter 0000294######################
+tensor(0.7384, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7384493
+###########iter 0000295######################
+tensor(0.7565, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7564884
+###########iter 0000296######################
+tensor(0.7760, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7760385
+###########iter 0000297######################
+tensor(0.7803, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.780289
+###########iter 0000298######################
+tensor(0.7449, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74490577
+###########iter 0000299######################
+tensor(0.7585, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75852317
+###########iter 0000300######################
+tensor(0.7705, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77054435
+###########iter 0000301######################
+tensor(0.7480, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74799645
+###########iter 0000302######################
+tensor(0.7596, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7596382
+###########iter 0000303######################
+tensor(0.7828, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7828211
+###########iter 0000304######################
+tensor(0.7634, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7633721
+###########iter 0000305######################
+tensor(0.7159, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71593183
+###########iter 0000306######################
+tensor(0.7582, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75819683
+###########iter 0000307######################
+tensor(0.7594, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.759371
+###########iter 0000308######################
+tensor(0.7673, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7673016
+###########iter 0000309######################
+tensor(0.7390, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7390307
+###########iter 0000310######################
+tensor(0.7657, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76568276
+###########iter 0000311######################
+tensor(0.7668, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7667779
+###########iter 0000312######################
+tensor(0.7746, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7745714
+###########iter 0000313######################
+tensor(0.7544, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75436485
+###########iter 0000314######################
+tensor(0.7616, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7616017
+###########iter 0000315######################
+tensor(0.7618, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7618102
+###########iter 0000316######################
+tensor(0.7672, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7672134
+###########iter 0000317######################
+tensor(0.7468, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74678606
+###########iter 0000318######################
+tensor(0.7515, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7514789
+###########iter 0000319######################
+tensor(0.7376, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7376125
+###########iter 0000320######################
+tensor(0.7734, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77341366
+###########iter 0000321######################
+tensor(0.7452, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7451621
+###########iter 0000322######################
+tensor(0.7596, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75960255
+###########iter 0000323######################
+tensor(0.7597, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7597097
+###########iter 0000324######################
+tensor(0.7731, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.773083
+###########iter 0000325######################
+tensor(0.7536, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75359136
+###########iter 0000326######################
+tensor(0.7523, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75225824
+###########iter 0000327######################
+tensor(0.7793, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77929974
+###########iter 0000328######################
+tensor(0.7617, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76174027
+###########iter 0000329######################
+tensor(0.7593, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7593183
+###########iter 0000330######################
+tensor(0.7240, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72400373
+###########iter 0000331######################
+tensor(0.7400, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7399777
+###########iter 0000332######################
+tensor(0.7566, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7566244
+###########iter 0000333######################
+tensor(0.7444, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74435204
+###########iter 0000334######################
+tensor(0.7323, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7322602
+###########iter 0000335######################
+tensor(0.7651, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76509136
+###########iter 0000336######################
+tensor(0.7736, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77363884
+###########iter 0000337######################
+tensor(0.7642, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7641991
+###########iter 0000338######################
+tensor(0.7732, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.77321076
+###########iter 0000339######################
+tensor(0.7465, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74651814
+###########iter 0000340######################
+tensor(0.7424, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7423799
+###########iter 0000341######################
+tensor(0.7482, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74820757
+###########iter 0000342######################
+tensor(0.7516, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7516038
+###########iter 0000343######################
+tensor(0.7576, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7575732
+###########iter 0000344######################
+tensor(0.7366, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7366446
+###########iter 0000345######################
+tensor(0.7446, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7445519
+###########iter 0000346######################
+tensor(0.7337, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73373014
+###########iter 0000347######################
+tensor(0.7672, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7672299
+###########iter 0000348######################
+tensor(0.7546, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7546491
+###########iter 0000349######################
+tensor(0.7657, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.765692
+###########iter 0000350######################
+tensor(0.7439, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74391943
+###########iter 0000351######################
+tensor(0.7698, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7698002
+###########iter 0000352######################
+tensor(0.7530, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.752994
+###########iter 0000353######################
+tensor(0.7412, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74120855
+###########iter 0000354######################
+tensor(0.7550, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7549998
+###########iter 0000355######################
+tensor(0.7651, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76510465
+###########iter 0000356######################
+tensor(0.7302, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7301626
+###########iter 0000357######################
+tensor(0.7253, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72534364
+###########iter 0000358######################
+tensor(0.7288, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7287674
+###########iter 0000359######################
+tensor(0.7641, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76405156
+###########iter 0000360######################
+tensor(0.7614, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76142585
+###########iter 0000361######################
+tensor(0.7406, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7406053
+###########iter 0000362######################
+tensor(0.7342, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73415804
+###########iter 0000363######################
+tensor(0.7346, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7346068
+###########iter 0000364######################
+tensor(0.7329, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7329078
+###########iter 0000365######################
+tensor(0.7282, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.728247
+###########iter 0000366######################
+tensor(0.7399, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73990476
+###########iter 0000367######################
+tensor(0.7411, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7410743
+###########iter 0000368######################
+tensor(0.7287, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72869045
+###########iter 0000369######################
+tensor(0.7351, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7350851
+###########iter 0000370######################
+tensor(0.7638, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7637992
+###########iter 0000371######################
+tensor(0.7509, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75094706
+###########iter 0000372######################
+tensor(0.7591, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75905186
+###########iter 0000373######################
+tensor(0.7342, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73417276
+###########iter 0000374######################
+tensor(0.7483, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74834937
+###########iter 0000375######################
+tensor(0.7575, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75754815
+###########iter 0000376######################
+tensor(0.7315, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7314558
+###########iter 0000377######################
+tensor(0.7360, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7360325
+###########iter 0000378######################
+tensor(0.7192, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7191888
+###########iter 0000379######################
+tensor(0.7338, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73376393
+###########iter 0000380######################
+tensor(0.7276, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72759974
+###########iter 0000381######################
+tensor(0.7399, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7399402
+###########iter 0000382######################
+tensor(0.7364, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73640895
+###########iter 0000383######################
+tensor(0.7388, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7387956
+###########iter 0000384######################
+tensor(0.7493, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7493255
+###########iter 0000385######################
+tensor(0.7230, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7229521
+###########iter 0000386######################
+tensor(0.7372, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73721325
+###########iter 0000387######################
+tensor(0.7152, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71518594
+###########iter 0000388######################
+tensor(0.7459, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.74585855
+###########iter 0000389######################
+tensor(0.7599, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7598718
+###########iter 0000390######################
+tensor(0.7668, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7668181
+###########iter 0000391######################
+tensor(0.7347, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7346716
+###########iter 0000392######################
+tensor(0.7519, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7519265
+###########iter 0000393######################
+tensor(0.7412, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7411717
+###########iter 0000394######################
+tensor(0.7628, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.76278716
+###########iter 0000395######################
+tensor(0.7247, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7246901
+###########iter 0000396######################
+tensor(0.7284, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72842866
+###########iter 0000397######################
+tensor(0.7290, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72896713
+###########iter 0000398######################
+tensor(0.7400, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7399577
+###########iter 0000399######################
+tensor(0.7363, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7363334
+###########iter 0000400######################
+tensor(0.7333, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73325557
+###########iter 0000401######################
+tensor(0.7362, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73620385
+###########iter 0000402######################
+tensor(0.7200, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7199925
+###########iter 0000403######################
+tensor(0.7493, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7492504
+###########iter 0000404######################
+tensor(0.7384, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73839784
+###########iter 0000405######################
+tensor(0.7381, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7380529
+###########iter 0000406######################
+tensor(0.7229, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7228849
+###########iter 0000407######################
+tensor(0.7371, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7370607
+###########iter 0000408######################
+tensor(0.7270, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72704047
+###########iter 0000409######################
+tensor(0.7238, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7237697
+###########iter 0000410######################
+tensor(0.7357, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7356564
+###########iter 0000411######################
+tensor(0.7428, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7428218
+###########iter 0000412######################
+tensor(0.7157, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71565837
+###########iter 0000413######################
+tensor(0.7305, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7305429
+###########iter 0000414######################
+tensor(0.7356, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73558545
+###########iter 0000415######################
+tensor(0.7457, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.745738
+###########iter 0000416######################
+tensor(0.7157, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71569014
+###########iter 0000417######################
+tensor(0.7313, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7312621
+###########iter 0000418######################
+tensor(0.7395, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7394512
+###########iter 0000419######################
+tensor(0.7177, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7176714
+###########iter 0000420######################
+tensor(0.7336, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.733631
+###########iter 0000421######################
+tensor(0.7311, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7310514
+###########iter 0000422######################
+tensor(0.7176, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7176177
+###########iter 0000423######################
+tensor(0.7566, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.75662893
+###########iter 0000424######################
+tensor(0.7200, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7199711
+###########iter 0000425######################
+tensor(0.7316, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.731601
+###########iter 0000426######################
+tensor(0.7232, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7231851
+###########iter 0000427######################
+tensor(0.7344, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7343666
+###########iter 0000428######################
+tensor(0.7153, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71527934
+###########iter 0000429######################
+tensor(0.7243, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7243059
+###########iter 0000430######################
+tensor(0.7395, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7394643
+###########iter 0000431######################
+tensor(0.7335, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7335204
+###########iter 0000432######################
+tensor(0.7386, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7385802
+###########iter 0000433######################
+tensor(0.7201, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7201451
+###########iter 0000434######################
+tensor(0.7258, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7257603
+###########iter 0000435######################
+tensor(0.7288, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7288229
+###########iter 0000436######################
+tensor(0.7395, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73949456
+###########iter 0000437######################
+tensor(0.7266, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72662514
+###########iter 0000438######################
+tensor(0.7086, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7085845
+###########iter 0000439######################
+tensor(0.7195, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71948797
+###########iter 0000440######################
+tensor(0.7212, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72116303
+###########iter 0000441######################
+tensor(0.7302, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73022574
+###########iter 0000442######################
+tensor(0.6987, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.6986502
+###########iter 0000443######################
+tensor(0.7392, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7392298
+###########iter 0000444######################
+tensor(0.7626, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.762648
+###########iter 0000445######################
+tensor(0.7265, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72654665
+###########iter 0000446######################
+tensor(0.7322, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7321659
+###########iter 0000447######################
+tensor(0.7183, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71834844
+###########iter 0000448######################
+tensor(0.7147, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7146625
+###########iter 0000449######################
+tensor(0.7146, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71464694
+###########iter 0000450######################
+tensor(0.7312, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73121566
+###########iter 0000451######################
+tensor(0.7203, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72025996
+###########iter 0000452######################
+tensor(0.7166, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7165941
+###########iter 0000453######################
+tensor(0.7071, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7071304
+###########iter 0000454######################
+tensor(0.7370, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73698133
+###########iter 0000455######################
+tensor(0.7116, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71161914
+###########iter 0000456######################
+tensor(0.7031, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70305926
+###########iter 0000457######################
+tensor(0.7326, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73262835
+###########iter 0000458######################
+tensor(0.7283, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72834945
+###########iter 0000459######################
+tensor(0.7350, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.735001
+###########iter 0000460######################
+tensor(0.7497, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7497082
+###########iter 0000461######################
+tensor(0.7562, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7561761
+###########iter 0000462######################
+tensor(0.7345, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73445904
+###########iter 0000463######################
+tensor(0.7145, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7145071
+###########iter 0000464######################
+tensor(0.7287, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7286853
+###########iter 0000465######################
+tensor(0.7155, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71550417
+###########iter 0000466######################
+tensor(0.7210, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72103083
+###########iter 0000467######################
+tensor(0.6979, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.69790596
+###########iter 0000468######################
+tensor(0.7430, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7430478
+###########iter 0000469######################
+tensor(0.7223, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72229916
+###########iter 0000470######################
+tensor(0.7302, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73019767
+###########iter 0000471######################
+tensor(0.7141, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71410537
+###########iter 0000472######################
+tensor(0.7342, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7342387
+###########iter 0000473######################
+tensor(0.7217, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7217482
+###########iter 0000474######################
+tensor(0.7138, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71378434
+###########iter 0000475######################
+tensor(0.7088, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7087804
+###########iter 0000476######################
+tensor(0.7068, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7067679
+###########iter 0000477######################
+tensor(0.7262, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7262087
+###########iter 0000478######################
+tensor(0.7018, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7018222
+###########iter 0000479######################
+tensor(0.7268, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7268459
+###########iter 0000480######################
+tensor(0.7287, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72874236
+###########iter 0000481######################
+tensor(0.7213, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7212752
+###########iter 0000482######################
+tensor(0.6964, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.6963736
+###########iter 0000483######################
+tensor(0.7365, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7365232
+###########iter 0000484######################
+tensor(0.7201, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72007096
+###########iter 0000485######################
+tensor(0.7255, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72547877
+###########iter 0000486######################
+tensor(0.7128, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71278507
+###########iter 0000487######################
+tensor(0.7301, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73013127
+###########iter 0000488######################
+tensor(0.7263, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7263057
+###########iter 0000489######################
+tensor(0.7323, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.732272
+###########iter 0000490######################
+tensor(0.7179, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7179286
+###########iter 0000491######################
+tensor(0.7082, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70823437
+###########iter 0000492######################
+tensor(0.7048, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70477235
+###########iter 0000493######################
+tensor(0.7247, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7247221
+###########iter 0000494######################
+tensor(0.7100, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70996827
+###########iter 0000495######################
+tensor(0.7247, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7246844
+###########iter 0000496######################
+tensor(0.7043, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.704344
+###########iter 0000497######################
+tensor(0.7398, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7398316
+###########iter 0000498######################
+tensor(0.7191, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71909565
+###########iter 0000499######################
+tensor(0.7032, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7031513
+###########iter 0000500######################
+tensor(0.7152, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7152032
+###########iter 0000501######################
+tensor(0.7411, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7411216
+###########iter 0000502######################
+tensor(0.7325, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7325295
+###########iter 0000503######################
+tensor(0.7263, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.726268
+###########iter 0000504######################
+tensor(0.7144, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7143919
+###########iter 0000505######################
+tensor(0.7315, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73150665
+###########iter 0000506######################
+tensor(0.7145, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7145083
+###########iter 0000507######################
+tensor(0.7047, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70472956
+###########iter 0000508######################
+tensor(0.7339, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73391366
+###########iter 0000509######################
+tensor(0.7212, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7212247
+###########iter 0000510######################
+tensor(0.7210, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.721018
+###########iter 0000511######################
+tensor(0.7147, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71470237
+###########iter 0000512######################
+tensor(0.7097, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70967597
+###########iter 0000513######################
+tensor(0.7271, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7271466
+###########iter 0000514######################
+tensor(0.7284, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7283701
+###########iter 0000515######################
+tensor(0.7208, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72084844
+###########iter 0000516######################
+tensor(0.7186, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7186304
+###########iter 0000517######################
+tensor(0.7334, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73340213
+###########iter 0000518######################
+tensor(0.7069, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.706866
+###########iter 0000519######################
+tensor(0.7268, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7268324
+###########iter 0000520######################
+tensor(0.7150, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.715007
+###########iter 0000521######################
+tensor(0.6971, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.6971177
+###########iter 0000522######################
+tensor(0.7081, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7081201
+###########iter 0000523######################
+tensor(0.7211, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7211058
+###########iter 0000524######################
+tensor(0.7175, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71753454
+###########iter 0000525######################
+tensor(0.7137, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7137455
+###########iter 0000526######################
+tensor(0.7113, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7112626
+###########iter 0000527######################
+tensor(0.6954, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.695358
+###########iter 0000528######################
+tensor(0.7266, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7266095
+###########iter 0000529######################
+tensor(0.7169, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.716861
+###########iter 0000530######################
+tensor(0.7035, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70345026
+###########iter 0000531######################
+tensor(0.7024, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70236105
+###########iter 0000532######################
+tensor(0.7223, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72232
+###########iter 0000533######################
+tensor(0.7251, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7251331
+###########iter 0000534######################
+tensor(0.7465, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7465345
+###########iter 0000535######################
+tensor(0.7128, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71281165
+###########iter 0000536######################
+tensor(0.7221, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.72210944
+###########iter 0000537######################
+tensor(0.7198, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.719772
+###########iter 0000538######################
+tensor(0.7426, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7426177
+###########iter 0000539######################
+tensor(0.7006, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7005643
+###########iter 0000540######################
+tensor(0.7105, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.710547
+###########iter 0000541######################
+tensor(0.7286, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7285867
+###########iter 0000542######################
+tensor(0.7233, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7232565
+###########iter 0000543######################
+tensor(0.7166, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71656024
+###########iter 0000544######################
+tensor(0.7339, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.73387724
+###########iter 0000545######################
+tensor(0.7056, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7056118
+###########iter 0000546######################
+tensor(0.7158, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7158176
+###########iter 0000547######################
+tensor(0.7101, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7101188
+###########iter 0000548######################
+tensor(0.7012, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7012208
+###########iter 0000549######################
+tensor(0.6992, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.6992215
+###########iter 0000550######################
+tensor(0.7331, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7331028
+###########iter 0000551######################
+tensor(0.7007, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.70071775
+###########iter 0000552######################
+tensor(0.7200, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.71997464
+###########iter 0000553######################
+tensor(0.7147, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7146642
+###########iter 0000554######################
+tensor(0.7031, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7030981
+###########iter 0000555######################
+tensor(0.6836, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.68358743
+###########iter 0000556######################
+tensor(0.6988, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.69877344
+###########iter 0000557######################
+tensor(0.7312, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7311737
+###########iter 0000558######################
+tensor(0.7126, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7126354
+###########iter 0000559######################
+tensor(0.7277, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: 0.7277014
+###########iter 0000560######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000561######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000562######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000563######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000564######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000565######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000566######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000567######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000568######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000569######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000570######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000571######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000572######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000573######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000574######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000575######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000576######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000577######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000578######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000579######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000580######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000581######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000582######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000583######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000584######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000585######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000586######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000587######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000588######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000589######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000590######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000591######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000592######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000593######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000594######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000595######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000596######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000597######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000598######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000599######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000600######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000601######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000602######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000603######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000604######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000605######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000606######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000607######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000608######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000609######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000610######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000611######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000612######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000613######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000614######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000615######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000616######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000617######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000618######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000619######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000620######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000621######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000622######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000623######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000624######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000625######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000626######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000627######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000628######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000629######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000630######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000631######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000632######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000633######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000634######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000635######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000636######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000637######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000638######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000639######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000640######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000641######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000642######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000643######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000644######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000645######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000646######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000647######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000648######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000649######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000650######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000651######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000652######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000653######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000654######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000655######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000656######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000657######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000658######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000659######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000660######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000661######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000662######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000663######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000664######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000665######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000666######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000667######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000668######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000669######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000670######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000671######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000672######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000673######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000674######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000675######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000676######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000677######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000678######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000679######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000680######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000681######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000682######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000683######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000684######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000685######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000686######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000687######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000688######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000689######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000690######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000691######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000692######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000693######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000694######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000695######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000696######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000697######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000698######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000699######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000700######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000701######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000702######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000703######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000704######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000705######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000706######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000707######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000708######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000709######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000710######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000711######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000712######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000713######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000714######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000715######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000716######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000717######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000718######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000719######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000720######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000721######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000722######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000723######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000724######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000725######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000726######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000727######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000728######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000729######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000730######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000731######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000732######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000733######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000734######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000735######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000736######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000737######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000738######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000739######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000740######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000741######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000742######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000743######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000744######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000745######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000746######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000747######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000748######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000749######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000750######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000751######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000752######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000753######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000754######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000755######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000756######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000757######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000758######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000759######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000760######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000761######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000762######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000763######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000764######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000765######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000766######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000767######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000768######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000769######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000770######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000771######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000772######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000773######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000774######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000775######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000776######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000777######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000778######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000779######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000780######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000781######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000782######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000783######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000784######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000785######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000786######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000787######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000788######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000789######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000790######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000791######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000792######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000793######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000794######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000795######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000796######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000797######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000798######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000799######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000800######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000801######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000802######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000803######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000804######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000805######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000806######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000807######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000808######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000809######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000810######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000811######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000812######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000813######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000814######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000815######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000816######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000817######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000818######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000819######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000820######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000821######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000822######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000823######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000824######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000825######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000826######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000827######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000828######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000829######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000830######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000831######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000832######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000833######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000834######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000835######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000836######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000837######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000838######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000839######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000840######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000841######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000842######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000843######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000844######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000845######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000846######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000847######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000848######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000849######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000850######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000851######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000852######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000853######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000854######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000855######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000856######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000857######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000858######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000859######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000860######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000861######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000862######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000863######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000864######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000865######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000866######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000867######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000868######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000869######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000870######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000871######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000872######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000873######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000874######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000875######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000876######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000877######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000878######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000879######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000880######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000881######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000882######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000883######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000884######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000885######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000886######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000887######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000888######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000889######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000890######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000891######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000892######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000893######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000894######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000895######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000896######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000897######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000898######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000899######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000900######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000901######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000902######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000903######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000904######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000905######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000906######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000907######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000908######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000909######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000910######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000911######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000912######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000913######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000914######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000915######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000916######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000917######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000918######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000919######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000920######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000921######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000922######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000923######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000924######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000925######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000926######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000927######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000928######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000929######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000930######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000931######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000932######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000933######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000934######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000935######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000936######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000937######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000938######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000939######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000940######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000941######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000942######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000943######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000944######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000945######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000946######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000947######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000948######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000949######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000950######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000951######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000952######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000953######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000954######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000955######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000956######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000957######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000958######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000959######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000960######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000961######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000962######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000963######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000964######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000965######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000966######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000967######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000968######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000969######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000970######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000971######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000972######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000973######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000974######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000975######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000976######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000977######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000978######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000979######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000980######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000981######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000982######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000983######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000984######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000985######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000986######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000987######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000988######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000989######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000990######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000991######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000992######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000993######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000994######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000995######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000996######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000997######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000998######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0000999######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+###########iter 0001000######################
+tensor(nan, device='cuda:0', grad_fn=<MeanBackward0>)
+loss: nan
+Traceback (most recent call last):
+  File "C:\00_Assignment\MAI645_ML_for_CV\mai645\code\pytorch_train_pos_aclstm.py", line 354, in <module>
+    train(dances, dance_frame_rate, batch, 100, read_weight_path, write_weight_folder,
+  File "C:\00_Assignment\MAI645_ML_for_CV\mai645\code\pytorch_train_pos_aclstm.py", line 318, in train
+    train_one_iteraton(dance_batch_np, model, optimizer, iteration, write_bvh_motion_folder, print_loss, save_bvh_motion)
+  File "C:\00_Assignment\MAI645_ML_for_CV\mai645\code\pytorch_train_pos_aclstm.py", line 227, in train_one_iteraton
+    read_bvh.write_traindata_to_bvh(save_dance_folder+"%07d"%iteration+"_out.bvh", out_seq)
+  File "C:\00_Assignment\MAI645_ML_for_CV\mai645\code\read_bvh.py", line 326, in write_traindata_to_bvh
+    write_xyz_to_bvh(xyz_motion, skeleton, non_end_bones, format_filename, bvh_filename)
+  File "C:\00_Assignment\MAI645_ML_for_CV\mai645\code\read_bvh.py", line 238, in write_xyz_to_bvh
+    rotation_matrices, rotation_angles = helper.xyz_to_rotations_debug(skeleton, positions)
+  File "C:\00_Assignment\MAI645_ML_for_CV\mai645\code\rotation2xyz.py", line 279, in xyz_to_rotations_debug
+    assert np.allclose(np.linalg.norm(children_xyz[i, :]), np.linalg.norm(children_orig[i, :]))
+AssertionError

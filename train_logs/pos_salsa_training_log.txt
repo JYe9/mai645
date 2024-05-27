@@ -1,0 +1,37 @@
+load 05.bvh.npy
+frame number: 2461
+load 02.bvh.npy
+frame number: 5203
+load 06.bvh.npy
+frame number: 3262
+load 10.bvh.npy
+frame number: 2447
+load 03.bvh.npy
+frame number: 2750
+load 04.bvh.npy
+frame number: 1317
+load 01.bvh.npy
+frame number: 6117
+load 08.bvh.npy
+frame number: 2151
+load 09.bvh.npy
+frame number: 2002
+load 07.bvh.npy
+frame number: 1473
+###########iter 0000000######################
+tensor(1746.4603, device='cuda:0', grad_fn=<MseLossBackward0>)
+loss: 1746.4603
+Traceback (most recent call last):
+  File "/home/jye/00_Assignment/MAI645_ML_for_CV/project645/code/pytorch_train_euler_aclstm.py", line 271, in <module>
+    train(dances, dance_frame_rate, batch, 100, read_weight_path, write_weight_folder,
+  File "/home/jye/00_Assignment/MAI645_ML_for_CV/project645/code/pytorch_train_euler_aclstm.py", line 245, in train
+    train_one_iteraton(dance_batch_np, model, optimizer, iteration, write_bvh_motion_folder, print_loss,
+  File "/home/jye/00_Assignment/MAI645_ML_for_CV/project645/code/pytorch_train_euler_aclstm.py", line 151, in train_one_iteraton
+    read_bvh.write_euler_to_bvh(save_dance_folder + "%07d" % iteration + "_gt.bvh", skeleton, non_end_bones, gt_seq)
+  File "/home/jye/00_Assignment/MAI645_ML_for_CV/project645/code/read_bvh.py", line 271, in write_euler_to_bvh
+    position = euler_data_to_position_dic(data, skeleton)
+  File "/home/jye/00_Assignment/MAI645_ML_for_CV/project645/code/read_bvh.py", line 283, in euler_data_to_position_dic
+    positions[joint] = euler_angles_to_positions(euler_angles, skeleton[joint]['offsets'], positions[skeleton[joint]['parent']])
+  File "/home/jye/00_Assignment/MAI645_ML_for_CV/project645/code/read_bvh.py", line 287, in euler_angles_to_positions
+    R_x = euler.euler2mat(euler_angles[0], 0, 0)
+IndexError: index 0 is out of bounds for axis 0 with size 0
